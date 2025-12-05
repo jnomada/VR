@@ -87,6 +87,10 @@ Material:
     - Vector1_69b40c1ee2e1422cbfcae389f53b36a9: 1
     - Vector1_8671db567d5d4784b29e8ff511bd8f1e: 1
     - _AlphaClip: 0
+<<<<<<< HEAD
+=======
+    - _AlphaToMask: 0
+>>>>>>> upstream/main
     - _BUILTIN_AlphaClip: 0
     - _BUILTIN_Blend: 0
     - _BUILTIN_CullMode: 2
@@ -102,6 +106,10 @@ Material:
     - _CastShadows: 1
     - _Cull: 2
     - _DstBlend: 10
+<<<<<<< HEAD
+=======
+    - _DstBlendAlpha: 10
+>>>>>>> upstream/main
     - _EdgeHighlightPower: 5
     - _FadeSize: 0.02
     - _FadeStart: 0.12
@@ -128,6 +136,10 @@ Material:
     - _QueueOffset: 0
     - _Scale: 0.16
     - _SrcBlend: 5
+<<<<<<< HEAD
+=======
+    - _SrcBlendAlpha: 1
+>>>>>>> upstream/main
     - _Surface: 1
     - _TransitionSize: 0.1
     - _WristRange: 0.06
